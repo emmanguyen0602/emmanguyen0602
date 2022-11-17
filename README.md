@@ -13,3 +13,5 @@ I completed several professional courses on Coursera:
 
 These courses helped me to build a foundation in data science theory and necessary workflow for a project. Later, I began to work on projects to deal with practical problems. 
 
+[![Emma Nguyen's github stats](https://github-readme-stats.vercel.app/api?username=emmanguyen0602&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
