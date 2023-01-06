@@ -1,4 +1,4 @@
-### Hi there, I'm Emma Nguyen! 👋
+### Hi there, I'm Emma Nguyen - a self-taught data scientist intern from Vietnam! 👋
 
 - :heart_on_fire: I am passionate about math, statistics, data science and machine learning.
 - :sweat_drops: I study and learn new things every day to improve myself.
