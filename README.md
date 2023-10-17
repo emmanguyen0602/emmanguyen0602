@@ -1,4 +1,4 @@
-### Hi there, I'm Emma Nguyen - a self-taught data analyst/engineer! 👋
+### Hi there, I'm Emma Nguyen - a self-taught data engineer! 👋
 :heart_on_fire: Passionate about math, statistics, data science, and machine learning.  
 :sweat_drops: Committed to continuous learning and personal growth.  
 :love_letter: Connect with me on LinkedIn. 
